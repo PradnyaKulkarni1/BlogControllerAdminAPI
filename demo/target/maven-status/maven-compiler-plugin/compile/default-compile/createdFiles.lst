@@ -1,0 +1,10 @@
+com\example\demo\service\BlogConstants.class
+com\example\demo\service\BlogService.class
+com\example\demo\model\Geo.class
+com\example\demo\controller\BlogController.class
+com\example\demo\BlogApplication.class
+com\example\demo\model\Company.class
+com\example\demo\model\User.class
+com\example\demo\model\Address.class
+com\example\demo\model\Post.class
+com\example\demo\model\UserPostsData.class
